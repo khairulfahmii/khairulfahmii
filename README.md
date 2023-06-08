@@ -1,11 +1,6 @@
-### Hi there 👋
 # Data Analytics Portfolio by Khairul Fahmi
-
-Hi! My name is Khairul Fahmi, just called me Fahmi.
-
-### About Me
-I am a highly dedicated professional with a strong commitment to ethics, meticulous attention to detail, and effective teamwork. My areas of expertise include working with spreadsheets, SQL, Python, and data visualization programs like Tableau and Looker Studio. With a solid foundation in data interpretation, I excel at extracting valuable insights and presenting them with precision.
-During my previous job, I conducted research focused on optimizing distribution and production costs through the application of linear programming techniques. Through my work and research, I am driven to contribute to the advancement of knowledge and find innovative solutions to complex problems.
+### Hi there 👋
+My name is Khairul Fahmi, just called me Fahmi.
 
 # Here is my Data Analyst Portfolio
 
