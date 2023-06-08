@@ -2,8 +2,6 @@
 ### Hi there 👋
 My name is Khairul Fahmi, just called me Fahmi.
 
-# Here is my Data Analyst Portfolio
-
 ## Spreadsheet/ Excel Skill sets:
 * Data Cleaning;
 * Query Table;
