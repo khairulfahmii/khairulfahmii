@@ -13,8 +13,8 @@ My name is Khairul Fahmi, just called me Fahmi.
 * Data Visualization;
 * Gathering Insights;
 
-### Deck :
-[Data Cleaning and Processing in Spreadsheet](https://docs.google.com/presentation/d/1H4ffVTQ-4i1ozKPmFjrOLlhj2jXNG_2pC0mrPZqBrSc/edit?usp=share_link)
+### Deck : 
+1. [Data Cleaning and Processing in Spreadsheet](https://docs.google.com/presentation/d/1H4ffVTQ-4i1ozKPmFjrOLlhj2jXNG_2pC0mrPZqBrSc/edit?usp=share_link)
 
 ## SQL Skill sets:
 * Standard Query Syntax;  
