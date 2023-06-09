@@ -4,13 +4,18 @@
 ### Hi there 👋
 My name is Khairul Fahmi, just called me Fahmi.
 
-## Spreadsheet/ Excel Skill sets:
+# This is my data analyst portfolio:
+
+## Spreadsheet / Excel Skill sets:
 * Data Cleaning;
 * Query Table;
 * Pivot Table;
 * Vlookup;
 * Descriptive Statistics;
 * Data Visualization;
+* Correlation
+* Regression
+* Stepwise Regression
 * Gathering Insights;
 
 ### Deck : 
@@ -23,6 +28,7 @@ My name is Khairul Fahmi, just called me Fahmi.
 * SQL Data Type; 
 * SQL Date Format; 
 * SQL Window Function
+* CTE
 
 ### Code Example :
 1. [Create a query to get top 3 user’s first traffic sources that provide the most revenue in the past 3 months](https://console.cloud.google.com/bigquery?sq=1056090746133:7c7687badc2a44f79774b912c1005cec)
